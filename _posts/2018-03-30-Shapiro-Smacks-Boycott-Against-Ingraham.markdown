@@ -2,7 +2,7 @@
 layout: post
 title:  "Shapiro Smacks Boycott Against Ingraham"
 date:   2018-03-30 21:26:43 -0400
-categories: ben shapiro david hogg laura ingraham
+categories:  david hogg 
 ---
 
 
