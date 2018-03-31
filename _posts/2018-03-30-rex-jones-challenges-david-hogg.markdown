@@ -8,4 +8,5 @@ categories: infowars david hogg
 
 Check out Alex Jones's son challenge liberal god David Hogg to a debate.
 
-[link to video]: https://www.youtube.com/watch?v=2BWiaIQbc6Y
+
+[link to video](https://www.youtube.com/watch?v=2BWiaIQbc6Y)
