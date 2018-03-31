@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Free Speech Wars supports freedom of speech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: freespeechwars
+twitter_username:  freespeechwars
 github_username:  freespeechwars
 
 # Build settings
